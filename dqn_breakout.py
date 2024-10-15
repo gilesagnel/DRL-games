@@ -90,7 +90,7 @@ TAU = 0.005
 BATCH_SIZE = 32
 EPS_START = 1.0
 EPS_END = 0.01
-EPS_DECAY = 130000
+EPS_DECAY = 140000
 LR = 1e-4
 
 n_actions = env.action_space.n
