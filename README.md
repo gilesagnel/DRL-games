@@ -27,9 +27,18 @@ The MountainCar problem involves driving a car up a steep hill. The car's engine
 - **HER Goals**: Position and velocity of the car
 - **Reference Paper**: Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., McGrew, B., Tobin, J., Abbeel, P., & Zaremba, W. (2017). Hindsight Experience Replay. ArXiv. /abs/1707.01495
 
-![alt text](assets/mountain_car.png)
+![alt result mc](assets/mountain_car.png)
 
 ## Breakout Atari Game - DQN
 After 1000 games
 
+https://github.com/user-attachments/assets/ee76a21c-17ce-4863-aedc-b82e6d88a641
+
 After 4000 games
+
+https://github.com/user-attachments/assets/43916d49-be90-4594-a671-2ee4b05e7810
+
+Result</br>
+<img width="720" alt="breakoutResult" src="https://github.com/user-attachments/assets/8af45b70-f04c-45ba-8bf1-9ac4ceee8364">
+
+
