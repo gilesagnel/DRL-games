@@ -29,7 +29,14 @@ The MountainCar problem involves driving a car up a steep hill. The car's engine
 
 ![alt result mc](assets/mountain_car.png)
 
-## Breakout Atari Game - DQN
+## Breakout Atari Game
+In the Breakout game, the objective is to break a wall of bricks using a bouncing ball. The player controls a paddle at the bottom of the screen, aiming to keep the ball in play while directing it towards the bricks. Each brick hit earns points and may have different properties, such as requiring multiple hits to break or dropping power-ups. The challenge lies in mastering the ball's trajectory and timing to maximize brick destruction while preventing the ball from falling past the paddle.
+
+- **Algorithm**: Deep Q-Learning
+- **Environment**: `BreakoutNoFrameskip-v4`
+- **Reference Paper**: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing Atari with Deep Reinforcement Learning. ArXiv. /abs/1312.5602
+
+  
 After 1000 games
 
 https://github.com/user-attachments/assets/ee76a21c-17ce-4863-aedc-b82e6d88a641
